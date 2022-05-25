@@ -1,4 +1,8 @@
 {
+ "name": "Feeling Cabeleireiros - Tour Virtual 360°",
+ "description": " R. Antônio Manoel Pedroso de Castro, 109 - Centro, Itapecerica da Serra - SP",
+ "display": "fullscreen",
+ "background_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -36,10 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "name": "Feeling Cabeleireiros - Tour Virtual 360°",
- "description": " R. Antônio Manoel Pedroso de Castro, 109 - Centro, Itapecerica da Serra - SP",
- "display": "fullscreen",
- "background_color": "#FFFFFF",
  "start_url": "index.htm",
  "theme_color": "#FFFFFF"
 }
